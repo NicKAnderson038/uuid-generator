@@ -1,2 +1,1 @@
-# uuid-generator
-Created with CodeSandbox
+# UUID Generator
